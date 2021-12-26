@@ -1,0 +1,14 @@
+body{
+    background-image: linear-gradient(90deg, rgb(0, 47, 255) , rgb(100, 100, 255));
+}
+
+.box-shadov{
+    background-image: linear-gradient(90deg,  rgb(100, 100, 255), rgb(0, 47, 255));
+    padding: 0px 10px 50px 10px;
+    box-shadow: 20px -20px 80px rgba(0, 0, 0, 0.507);
+    border-radius: 15px;
+}
+
+.days{
+    color: rgb(240, 124, 211);
+}
